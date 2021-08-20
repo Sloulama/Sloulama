@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-https://sloulama.github.io/sloulama/cv
+https://sloulama.github.io/Sloulama/cv
